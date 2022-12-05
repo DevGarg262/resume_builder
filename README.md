@@ -35,13 +35,4 @@
 <img src="https://user-images.githubusercontent.com/57831888/102904677-11d7b880-4498-11eb-9576-a1a31a6b872d.png" width="400px"  >
 
 
-
-## Here are my social media handles:
-
-Linkedin: https://www.linkedin.com/in/architgarg603/
-<br />
-Instagram: https://www.instagram.com/_archit.garg_/
-
-###### Email: architgarg603@gmail.com
-
 ### Thank you!
